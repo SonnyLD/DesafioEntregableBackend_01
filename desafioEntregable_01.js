@@ -46,5 +46,5 @@ const productManager = new ProductManager();
 productManager.addPtoducts("Mesa de comedor", "mesa de madera", 1400, "Sin imagen", 25);
 productManager.addPtoducts("Escritorio", "Producto de caoba", 2000, "Sin imagen", 30);
 productManager.addPtoducts("Sofa de sala", "Producto", 2000, "Sin imagen", 40);
-productManager.getProductById(1, "B455");
+productManager.getProductById(1, "B455")
 productManager.getProductById(4, "D255");
